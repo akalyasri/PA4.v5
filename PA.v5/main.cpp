@@ -6,3 +6,11 @@ int main(void) {
 	app.runApp();
 	return 0;
 }
+
+void test_function()
+{
+
+	//
+}
+
+
