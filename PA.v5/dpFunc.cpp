@@ -102,6 +102,11 @@ fstream& operator >> (fstream& lhs, dietPlan& rhs) {
 	rhs.setGoalCalories(calories);
 	rhs.setPlanDate(date);
 	return lhs;
+
+	///
+	//
+	//
+
 }
 
 

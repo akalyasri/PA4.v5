@@ -115,6 +115,10 @@ fstream& operator << (fstream& lhs, exercisePlan& rhs) {
 	lhs << "\n";
 
 	return lhs;
+
+	//
+	//
+	//
 }
 
 

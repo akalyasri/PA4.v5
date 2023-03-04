@@ -61,6 +61,10 @@ void FitnessAppWrapper::runApp(void) {
 			if (epFile.is_open()) {
 				system("cls");
 				loadWeeklyPlan(epFile, epList);
+				/// <summary>
+				/// 
+				/// </summary>
+				/// <param name=""></param>
 				epLoaded = true;
 				cout << "Weekly exercise plan loaded." << endl;
 				epFile.close();
